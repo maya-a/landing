@@ -1,0 +1,27 @@
+.container {
+  margin: 0 auto;
+}
+
+.container p {
+  color: rgb(220, 220, 220);
+  font-size: 20px;
+}
+
+.container a {
+  display: inline-block;
+  background-color: #ff93d5;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 30px;
+  transition: background-color 0.2s ease;
+}
+
+.container a:hover{
+
+  background-color: #f271bc;
+
+}
+.container h2 {
+  display: flex;
+  justify-content: center;
+}
